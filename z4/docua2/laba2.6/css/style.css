@@ -1,0 +1,48 @@
+header img{
+    width:100%;
+}
+main{
+    text-align: left;
+    margin-left: 25%;
+}
+.greeting{
+    text-align: center;
+}
+.sidebar{
+    margin-left: 23%;
+}
+.aside{
+    float: left;
+    overflow: hidden;
+    margin: 5px;
+}
+.aside button{
+    background-color: orange;
+    text-align: center;
+    width: 100%;
+    height: 30px;
+}
+.lowerText{
+    text-align: center;
+    margin: 5px;
+}
+.lowerText button{
+    background-color: orange;
+    text-align: center;
+    width: 50%;
+    height: 30px;
+}
+footer{
+    background-color: aqua;
+    color: white;
+    text-align: center;
+
+}
+.link{
+    margin-left: 43%;
+}
+.link a{
+    float: left;
+    overflow: hidden;
+    margin: 5px;
+}
